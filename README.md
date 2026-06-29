@@ -1,2 +1,36 @@
-# cv_test
-Сайт-визика на HTML + CSS + JS
+<!DOCTYPE html>
+<html>
+<head> 
+	<meta charset="UTF-8" />
+	<title>Smirennov_Daniil</title>
+	<link rel="stylesheet" href="main.css">
+	
+</head>
+
+<body class="container">
+		<h1>Смиреннов Даниил</h1>
+
+		<div class="item">
+			<img class="photo" src="me.png" width="170" height="170" alt="фото">
+		</div>
+
+			<p>Один из семи миллиардов</p>
+
+			<h2>Обо мне</h2>
+
+			<div class="contacts">
+
+				<a href="http://t.me/Smirennov_Daniil">telegram</a> 
+				<br>
+				<a href="mailto:daniilcmir@gmail.com">email</a>
+				<br>
+				<a href="https://www.linkedin.com/in/SmirennovDaniil/">linkedin</a>
+				<br>
+				<a href="https://github.com/Smirennov-D">github.com</a>
+			</div>
+				<button type="button">Кредо</button>
+				<script type="text/javascript" src="js.js"></script>
+
+</body>
+
+</html>
